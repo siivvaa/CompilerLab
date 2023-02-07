@@ -1,0 +1,14 @@
+Line: 3 || Position: 11 - Assignment operator: =
+Line: 4 || Position: 11 - Assignment operator: =
+Line: 6 || Position: 6 - Assignment operator: =
+Line: 6 || Position: 8 - Arithmetic operator: +
+Line: 7 || Position: 6 - Assignment operator: =
+Line: 7 || Position: 8 - Arithmetic operator: +
+Line: 8 || Position: 6 - Assignment operator: =
+Line: 8 || Position: 9 - Arithmetic operator: *
+Line: 8 || Position: 12 - Arithmetic operator: /
+Line: 9 || Position: 6 - Assignment operator: =
+Line: 9 || Position: 8 - Arithmetic operator: /
+Line: 10 || Position: 12 - Logical operator: &
+Line: 12 || Position: 7 - Assignment operator: =
+Line: 12 || Position: 11 - Bitwise operator: ^

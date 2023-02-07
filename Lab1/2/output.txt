@@ -1,0 +1,43 @@
+Lexeme:int||Token:Keyword
+Lexeme:main||Token:Keyword
+Lexeme:(||Token:Special Chararacters.
+Lexeme:)||Token:Special Chararacters.
+
+Lexeme:{||Token:Special Chararacters.
+
+Lexeme:int||Token:Keyword
+Lexeme:ident1||Token:Identifier
+Lexeme:,||Token:Special Chararacters.
+Lexeme:_ident2||Token:Identifier
+Lexeme:,||Token:Special Chararacters.
+Lexeme:7dent3||Token:Invalid Identifier!
+Lexeme:,||Token:Special Chararacters.
+Lexeme:iden||Token:Identifier
+Lexeme:ti4||Token:Identifier
+Lexeme:;||Token:Special Chararacters.
+
+Lexeme:char||Token:Keyword
+Lexeme:aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa||Token:Invalid Identifier
+Lexeme:;||Token:Special Chararacters.
+
+Lexeme:do||Token:Keyword
+Lexeme:{||Token:Special Chararacters.
+
+
+Lexeme:ident1||Token:Identifier
+Lexeme:=||Token:Operator
+Lexeme:1||Token:Constant
+Lexeme:;||Token:Special Chararacters.
+
+Lexeme:}||Token:Special Chararacters.
+Lexeme:while||Token:Keyword
+Lexeme:(||Token:Special Chararacters.
+Lexeme:1||Token:Constant
+Lexeme:)||Token:Special Chararacters.
+Lexeme:;||Token:Special Chararacters.
+
+Lexeme:return||Token:Keyword
+Lexeme:0||Token:Constant
+Lexeme:;||Token:Special Chararacters.
+
+Lexeme:}||Token:Special Chararacters.

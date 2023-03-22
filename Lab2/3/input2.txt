@@ -1,0 +1,7 @@
+if (a != 100) {
+    a = b = c;
+} else {
+    else {
+        c = a / b;
+    }
+}

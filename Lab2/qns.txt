@@ -1,0 +1,5 @@
+1) Write code for syntax analysis of expressions involving arithmetic, boolean and relational operators in C. Define the tokens in lex for identifiers and numbers and use it in yacc.
+
+2) Construct a symbol table which holds information (name, datatype, offset, size, scope) on valid identifiers.
+
+3) Write code for syntax analysis of simple if and if-else conditional construct in C.
